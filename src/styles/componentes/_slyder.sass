@@ -13,7 +13,7 @@
       border: 1px solid $color-sistema-e
       top: 50%
       z-index: 10000
-      opacity: 0.7
+      //-opacity: 0.7
       box-shadow: 0 0 0px 0px rgba(0,0,0,0.3)
       transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
       cursor: pointer
@@ -36,9 +36,10 @@
       opacity: 0.7
       transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
       border: 1px solid $color-sistema-e
+      background-color: #A0BEFF
 
       &--active
-        background-color: $color-sistema-b
+        background-color: #FFB12D
         border-color: $color-sistema-b
         opacity: 1
 
@@ -167,3 +168,13 @@
   &__slyde
     & > .tarjeta
       height: 100%
+  
+  .fa-chevron-left, .fa-chevron-right
+    color: #FFB12D
+
+//- Modulo Slyders 
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #FFB12D
+  color: #FFFF
+  border: none

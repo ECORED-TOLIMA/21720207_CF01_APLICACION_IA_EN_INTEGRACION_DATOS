@@ -197,7 +197,7 @@
             font-weight: $base-black-font-weight
           &__line-container
             &:before
-              background-color: $color-success
+              background-color: #9D9D9D
           &__dot
             position: relative
             span
@@ -207,14 +207,15 @@
         .pasos-b__header__item
           &__line-container
             &:before, &:after
-              background-color: $color-success
+              background-color: #9D9D9D
           &__dot
-            border-color: $color-success
-            background-color: $color-success
+            border-color: #6CEAFF
+            background-color: #6CEAFF
             span
               display: none
             i
               display: block
+              color: #12263F
 
       &:first-child
         .pasos-b__header__item__line-container
@@ -305,3 +306,7 @@
 
   .indicador__container
     transform: translateY(15px)
+
+//- pasosb color fondo btn left and right
+.pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #FFB12D

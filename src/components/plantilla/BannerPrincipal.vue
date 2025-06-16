@@ -6,9 +6,9 @@
     .row.banner-principal__row
       .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
         .banner-principal__componente
-          h1.mb-0(v-html="globalData.componenteFormativo")
+          h1.mb-0(v-html="globalData.Name")
         .banner-principal__descripcion
-          p.mb-0(v-html="globalData.descripcionCurso")
+          p.mb-0(v-html="globalData.Description")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
             span.me-1 Ver más

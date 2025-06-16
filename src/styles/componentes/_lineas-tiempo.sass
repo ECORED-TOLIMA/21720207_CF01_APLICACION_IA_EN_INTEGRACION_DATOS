@@ -306,6 +306,7 @@
       &__year
         line-height: 1.1em
         text-align: center
+        color: #fff
         margin-bottom: 10px
 
       &__line-container
@@ -378,8 +379,8 @@
       max-height: 50px
       flex: auto
       border-radius: 50%
-      border: 2px solid $lighter-gray
-      background-color: $white
+      border: none
+      background-color: #FFB12D
       position: relative
       cursor: pointer
       transition: border-color 0.2s ease-in-out
@@ -630,3 +631,15 @@
     .linea-tiempo-e__item__header
       &:before
         border-color: $color-acento-botones
+
+//Modulo linea de tiempo d
+
+.linea-tiempo-d.color-acento-botones.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      background-color: #C5FDFF !important 
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #EEEEDD
+.tarjeta.tarjeta--gris
+  background-color: #EEEEDD
+

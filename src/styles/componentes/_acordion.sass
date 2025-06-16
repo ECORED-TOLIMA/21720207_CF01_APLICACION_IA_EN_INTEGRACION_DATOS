@@ -1,5 +1,7 @@
 .acordion
   position: relative
+  .acordion__activo
+    background-color: #C5FDFF
 
   &__header
     display: flex
@@ -28,7 +30,14 @@
         box-shadow: 0px 3px 5px 0px rgba($color-sistema-a,0.3)
 
       &--b
-        border: 1px solid $color-sistema-a
+        border: none
+
+    .acordion__accion__btn--b
+      background-color: #FFB12D
+    
+    .acordion__accion__btn--a
+      background-color: #FFB12D
+    
 
   &__titulo
 
