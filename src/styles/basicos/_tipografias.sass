@@ -283,7 +283,7 @@
       display: inline-block
       min-width: 24px
       height: 24px
-      color: $white
+      color: $black
       position: relative
       margin-right: 8px
       vertical-align: top
@@ -339,3 +339,17 @@
 //- Modulo listas 
 .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
   display: flex
+
+  //- modulo titulos adicionales
+
+.titulo01
+  position: relative
+  left: -2%
+  background-color: #C5FDFF
+  border-radius: 20px
+  h3
+    color: black
+  @media screen and ( max-width: $bp-max-lg )
+    left: -3%
+  @media screen and ( max-width: $bp-max-sm )
+    left: -4%

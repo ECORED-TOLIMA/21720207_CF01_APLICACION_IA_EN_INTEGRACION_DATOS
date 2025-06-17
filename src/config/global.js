@@ -211,9 +211,10 @@ export default {
       link: 'https://www.youtube.com/watch?v=-hYXrGAUYAE',
     },
     {
-      tema: '4.3. Introducción al aprendizaje automático (machine learning)',
+      tema:
+        '4.3. Introducción al aprendizaje automático <em>(machine learning)</em>',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Machine Learning con Python [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). <em>Machine Learning</em> con Python [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=noMy4-zjR9Q',
     },

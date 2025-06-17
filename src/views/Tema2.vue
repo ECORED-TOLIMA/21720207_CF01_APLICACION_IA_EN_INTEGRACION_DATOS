@@ -287,7 +287,7 @@
     p.mb-5(data-aos="fade-down") Entre las herramientas más utilizadas para describir los datos se encuentran:
 
     .tarjeta.tarjeta--BG05.p-4.mb-5
-      LineaTiempoC.color-acento-botones(text-small)
+      LineaTiempoC.color-acento-botones(text-small)(data-aos="flip-up")
         .row(titulo="1")
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Histogramas
