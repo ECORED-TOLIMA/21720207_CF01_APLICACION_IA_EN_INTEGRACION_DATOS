@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img01.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El análisis de datos es un proceso que inicia mucho antes del uso de herramientas estadísticas o informáticas. Parte de una comprensión profunda sobre qué son los datos, cómo se obtienen, de dónde provienen y bajo qué principios deben ser tratados. Por esta razón, en este apartado se abordan los aspectos fundamentales relacionados con la recolección y caracterización de datos, entendiendo que estos constituyen la base sobre la cual se construyen procesos analíticos, diagnósticos y soluciones efectivas a problemas reales.
+        p.mb-0 La etapa de procesamiento y preparación de datos constituye una de las fases más críticas en cualquier proyecto de análisis de datos, ciencia de datos o desarrollo de sistemas de inteligencia artificial. Esta fase determina en gran medida la calidad y la eficacia de los modelos y análisis que se construyan posteriormente. Se encarga de transformar datos crudos, frecuentemente desordenados, incompletos o con errores, en un conjunto de información precisa, coherente y organizada que pueda ser utilizada de forma eficiente por herramientas analíticas o algoritmos automatizados.
         br
     
     p.mb-4(data-aos="fade-down") En este proceso, se desarrollan una serie de actividades sistemáticas que van desde la limpieza básica de datos hasta la transformación y reestructuración profunda de los mismos, con el objetivo de adaptarlos al contexto específico del problema que se desea resolver. Esto incluye tareas como la detección de valores atípicos, el tratamiento de datos faltantes, la normalización de escalas, la codificación de variables categóricas y la integración de diferentes fuentes de información.
@@ -235,28 +235,28 @@
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4.col-lg-6
+          .col-4
             img(src='@/assets/curso/tema2/img18.svg' alt='AvatarTop')
         h4.text-center Nominal
         p.text-center Variables categóricas sin un orden definido, como los nombres de ciudades.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4.col-lg-6
+          .col-4
             img(src='@/assets/curso/tema2/img19.svg' alt='AvatarTop')
         h4.text-center Ordinal 
         p.text-center Categorías con jerarquía, como los niveles de satisfacción (bajo, medio, alto).
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4.col-lg-6
+          .col-4
             img(src='@/assets/curso/tema2/img20.svg' alt='AvatarTop')
         h4.text-center Intervalo 
         p.text-center Variables numéricas sin un cero absoluto, como la temperatura en grados Celsius.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4.col-lg-6
+          .col-4
             img(src='@/assets/curso/tema2/img21.svg' alt='AvatarTop')
         h4.text-center Razón 
         p.text-center Variables numéricas con cero absoluto, como los ingresos o el tiempo.
@@ -266,7 +266,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12.order-lg-2.order-2.mb-lg-0
         .row.justify-content-center.mb-0(data-aos="flip-up")
-          .col-6
+          .col-lg-6.col-12.mb-3
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img22.svg' alt='AvatarTop').img150
@@ -275,7 +275,7 @@
                   h4 Categóricas
                   p Corresponden atributos o cualidades (de nivel nominal u ordinal).
 
-          .col-6
+          .col-lg-6.col-12.mb-3
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img23.svg' alt='AvatarTop').img150

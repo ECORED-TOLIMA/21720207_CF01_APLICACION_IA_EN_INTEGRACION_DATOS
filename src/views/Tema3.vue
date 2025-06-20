@@ -164,7 +164,7 @@
           .row(titulo="Apoyo a la toma de decisiones")
             .col-12.mb-0.mb-md-0
               p Más allá de la automatización tradicional, la IA permite tomar decisiones en entornos inciertos y dinámicos. Por ejemplo, en el sector salud, sistemas inteligentes analizan bases de datos clínicas estructuradas y no estructuradas para apoyar diagnósticos médicos con mayor precisión. En el comercio electrónico, los motores de recomendación personalizan ofertas según el comportamiento del usuario, optimizando la experiencia del cliente.
-          .row(titulo="Metadatos")
+          .row(titulo="Visión por Computadora (Computer Vision)")
             .col-12.mb-0.mb-md-0
               p.mb-3 Gracias al <em>deep learning</em> y al avance de la capacidad computacional, las máquinas pueden interpretar imágenes y videos con una precisión similar a la humana. Algunas de sus aplicaciones más relevantes son:
               ul.lista-ul.mb-0
@@ -189,7 +189,7 @@
                 li.mb-0
                   i.lista-ul__vineta
                   p.mb-0 Análisis médico por imágenes y gestión urbana (monitoreo del tráfico y lectura de matrículas).
-          .row(titulo="Seguridad de los datos")
+          .row(titulo="Procesamiento del Lenguaje Natural (NLP)")
             .col-12.mb-0.mb-md-0
               p.mb-3 Permite a las máquinas comprender, interpretar y generar lenguaje humano. Esta disciplina combina análisis fonético, léxico, semántico, sintáctico y prosódico para lograr una interacción fluida con los usuarios. Entre sus aplicaciones más comunes se encuentran:
               ul.lista-ul.mb-0
@@ -223,7 +223,7 @@
       .col-lg-9.position-relative
         .avatar
           figure
-            img(src="@/assets/curso/tema3/img15.png", alt="Imagen decorativa").img250
+            img(src="@/assets/curso/tema3/img15.png", alt="Imagen decorativa").img280
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
             .col-auto
@@ -466,7 +466,7 @@
 
     .row.justify-content-center
       .col-lg-10.col-12
-        p.mb-0(data-aos="fade-down") Esta secuencia demuestra que el trabajo con datos requiere no solo habilidades técnicas, sino también pensamiento crítico, criterio ético y capacidad de comunicación. En ese sentido, los subtemas de este apartado tipos de datos, técnicas de definición, fuentes de información y principios éticos, permiten al aprendiz comprender de forma integral las primeras etapas de un proceso analítico riguroso y confiable.
+        p.mb-0(data-aos="fade-down") Estos ejemplos presentan cómo la IA generativa ya está integrada en múltiples industrias, aportando eficiencia, creatividad y nuevas formas de interacción entre humanos y máquinas.
 
     separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")

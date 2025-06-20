@@ -188,42 +188,42 @@
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img14.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')
                 h4.text-center Estructura
                 p Grado de organización interna (estructurado o no).
 
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
                 h4.text-center Origen
                 p Fuente que los produce (sistema, encuesta, sensor).
 
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')
                 h4.text-center Volumen
                 p Cantidad de datos disponibles.
 
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')
                 h4.text-center Velocidad
                 p Rapidez con la que se generan.
 
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img19.svg' alt='AvatarTop')
                 h4.text-center Veracidad
                 p Grado de confiabilidad.
 
               .tarjeta.tarjeta--BG03.p-4
                 .row.justify-content-center.mb-3
                   .col-lg-8.col-sm-4.col-6
-                    img(src='@/assets/curso/tema1/img19.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema1/img20.svg' alt='AvatarTop')
                 h4.text-center Valor
                 p Utilidad que aportan para resolver un problema.
     separador
@@ -322,7 +322,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12.order-lg-2.order-2
         .cajon.cajon.C01.color-primario.p-4.mb-0
-          p.mb-0 El contenido de las fuentes puede ser de tipo cuantitativo (datos numéricos y medibles) o cualitativo (descripciones, opiniones o experiencias), y presentarse de forma estructurada (tablas, gráficos o esquemas) o no estructurada (textos libres, imágenes o audios). La elección del tipo de contenido debe responder al propósito de la consulta o investigación.
+          p.mb-0 El contenido de las fuentes puede ser de tipo <b>cuantitativo</b> (datos numéricos y medibles) o <b>cualitativo</b> (descripciones, opiniones o experiencias), y presentarse de forma estructurada (tablas, gráficos o esquemas) o no estructurada (textos libres, imágenes o audios). La elección del tipo de contenido debe responder al propósito de la consulta o investigación.
 
     p.mb-5(data-aos="fade-down") Para garantizar la validez y confiabilidad de la información consultada, es necesario aplicar criterios que permitan evaluar la calidad de las fuentes:
 
