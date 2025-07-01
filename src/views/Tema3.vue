@@ -22,37 +22,37 @@
 
     LineaTiempoE.color-acento-contenido(data-aos="flip-up")
       .row(titulo="Década de 1950" subtitulo="Los orígenes")
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
+        .col-lg-6.mb-4.mb-lg-0.order-lg-1.order-2(data-aos="fade-down")
           p El término “inteligencia artificial” fue acuñado en 1956 durante la Conferencia de Dartmouth, organizada por John McCarthy, Marvin Minsky, Claude Shannon y Nathaniel Rochester, considerada el punto de partida oficial del campo. Previamente, Alan Turing había propuesto en 1950 el célebre “Test de Turing” como criterio para determinar si una máquina puede exhibir un comportamiento inteligente indistinguible del humano. En esta etapa se desarrollan los primeros programas simbólicos como Logic Theorist (1955) y General Problem Solver (1957).
-        .col-lg-6(data-aos="fade-up")
+        .col-lg-6.order-lg-2.order-1.mb-3(data-aos="fade-up")
           figure
             img(src='@/assets/curso/tema3/img02.jpg', alt='Imagen decorativa')
 
       .row(titulo="Décadas de 1960 y 1970" subtitulo="Primeros logros y limitaciones")
-        .col-lg-6(data-aos="fade-up")
+        .col-lg-6.order-lg-1.order-1.mb-3(data-aos="fade-up")
           figure
             img(src='@/assets/curso/tema3/img03.jpg', alt='Imagen decorativa')
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
+        .col-lg-6.mb-4.mb-lg-0.order-lg-2.order-2(data-aos="fade-down")
           p Se crean los primeros lenguajes de programación orientados a IA, como LISP (1958), y surgen programas capaces de demostrar teoremas y jugar ajedrez. Sin embargo, las expectativas iniciales no se cumplieron del todo, lo que provocó una disminución del financiamiento y la entrada en el llamado “invierno de la IA”.
 
       .row(titulo="Décadas de 1980" subtitulo="Auge de los sistemas expertos")
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
+        .col-lg-6.mb-4.mb-lg-0.order-lg-1.order-2(data-aos="fade-down")
           p La IA resurge con fuerza gracias al desarrollo de los sistemas expertos, programas capaces de emular el razonamiento humano en contextos específicos, como el diagnóstico médico (ej. MYCIN) o la ingeniería (ej. XCON de Digital Equipment Corporation). Se refuerzan conceptos como las redes semánticas, los motores de inferencia y las bases de conocimiento.
-        .col-lg-6(data-aos="fade-up")
+        .col-lg-6.order-lg-2.order-1.mb-3(data-aos="fade-up")
           figure
             img(src='@/assets/curso/tema3/img04.jpg', alt='Imagen decorativa')
 
       .row(titulo="Décadas de 1990 y 2000" subtitulo="Expansión del aprendizaje automático")
-        .col-lg-6(data-aos="fade-up")
+        .col-lg-6.order-lg-1.order-1.mb-3(data-aos="fade-up")
           figure
             img(src='@/assets/curso/tema3/img05.jpg', alt='Imagen decorativa')
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
+        .col-lg-6.mb-4.mb-lg-0.order-lg-2.order-2(data-aos="fade-down")
           p El avance del <em>machine learning</em> y el aumento del poder computacional propician una nueva era. Se perfeccionan algoritmos como las máquinas de soporte vectorial (SVM), los árboles de decisión y las primeras redes neuronales profundas. Un hito destacado fue en 1997, cuando Deep Blue (IBM) derrotó al campeón mundial de ajedrez Garry Kasparov.
 
       .row(titulo="Desde 2010 hasta la actualidad" subtitulo="El auge del <em>deep learning</em> y la IA generativa")
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
+        .col-lg-6.mb-4.mb-lg-0.order-lg-1.order-2(data-aos="fade-down")
           p El desarrollo de modelos basados en aprendizaje profundo (<em>deep learning</em>), impulsado por redes neuronales convolucionales y grandes volúmenes de datos (<em>big data</em>), lleva la IA a nuevos niveles de rendimiento. Destacan logros como AlphaGo (DeepMind, 2016), capaz de vencer a jugadores profesionales del complejo juego Go, y el surgimiento de modelos generativos como GPT (OpenAI), BERT (Google) o DALL·E, capaces de producir texto, imágenes y sonido con altos niveles de coherencia y creatividad. Estas herramientas redefinen la relación entre humanos y máquinas, con aplicaciones en educación, salud, arte y ciencia.
-        .col-lg-6(data-aos="fade-up")
+        .col-lg-6.order-lg-2.order-1(data-aos="fade-up")
           figure
             img(src='@/assets/curso/tema3/img06.jpg', alt='Imagen decorativa')
 

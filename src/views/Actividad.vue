@@ -47,7 +47,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
@@ -70,7 +70,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
@@ -93,7 +93,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
@@ -116,7 +116,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
@@ -139,7 +139,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
@@ -162,7 +162,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
@@ -185,7 +185,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
@@ -208,7 +208,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
@@ -231,7 +231,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
@@ -254,7 +254,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
@@ -277,7 +277,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
@@ -300,7 +300,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
@@ -323,7 +323,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
@@ -346,7 +346,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
@@ -369,7 +369,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 16,
@@ -392,7 +392,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 17,
@@ -415,7 +415,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 18,
@@ -438,7 +438,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 19,
@@ -461,7 +461,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 20,
@@ -484,7 +484,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un claro dominio de los conceptos clave relacionados con la recolección, tratamiento y visualización de datos aplicados a la inteligencia artificial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:

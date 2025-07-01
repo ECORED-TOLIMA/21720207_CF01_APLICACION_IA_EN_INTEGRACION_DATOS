@@ -171,7 +171,7 @@
     p.mb-4(data-aos="fade-down") Esta clasificación no solo permite identificar la forma en que se almacenan y presentan los datos, sino que también ayuda a establecer los requerimientos técnicos para su tratamiento posterior, como el tipo de almacenamiento, los métodos de análisis y las herramientas computacionales requeridas. Comprender la naturaleza y el tipo de datos es el primer paso para caracterizarlos adecuadamente, evaluar su calidad y garantizar su utilidad en entornos de análisis de información, modelamiento predictivo y toma de decisiones basadas en datos.
     p.mb-5(data-aos="fade-down") Además de su tipo y estructura, los datos poseen una serie de características complementarias que influyen directamente en su gestión y análisis:
 
-    .row.cajon.BG03.align-items-center.pt-3.mb-0
+    .row.cajon.BG03.align-items-center.py-lg-3.py-4.mb-0
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
           .col-md-6.col-lg-4.mb-4.mb-md-0.d-lg-flex.d-none(data-aos="fade-right")

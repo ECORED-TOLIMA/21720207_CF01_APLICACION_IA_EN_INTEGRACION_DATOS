@@ -78,12 +78,12 @@
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2(data-aos="fade-down")
               h4 Excel con Power Query y Power Pivot 
               p Utilizadas para análisis exploratorios, combinación de fuentes de datos y creación de modelos simples.
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img12.jpg', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-4.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img13.jpg', alt='Imagen decorativa')
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2(data-aos="fade-down")
@@ -94,12 +94,12 @@
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2(data-aos="fade-down")
               h3 R
               p Un lenguaje especializado en estadística, ideal para análisis profundos y visualización avanzada de datos.
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img14.jpg', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-4.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img15.jpg', alt='Imagen decorativa')
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2(data-aos="fade-down")
@@ -110,12 +110,12 @@
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2(data-aos="fade-down")
               h3 Apache Hadoop y Apache Spark
               p Diseñadas para procesar datos masivos distribuidos, son comunes en entornos de <em>big data</em>.
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img16.jpg', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-4.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
+            .col-lg-6.col-md-4.col-10.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1(data-aos="fade-up")
               figure
                 img(src='@/assets/curso/tema4/img17.jpg', alt='Imagen decorativa')
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2(data-aos="fade-down")

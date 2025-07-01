@@ -144,7 +144,7 @@
     .row.mb-4
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -153,7 +153,7 @@
 
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -162,7 +162,7 @@
 
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -171,7 +171,7 @@
 
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -180,7 +180,7 @@
 
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -189,7 +189,7 @@
 
       .col-lg-4.col-12
         .row.justify-content-center
-          .col-lg-auto.col-4.px-0.mb-4(data-aos="flip-up")
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C01.p-0.h-100
               img.w-100.my-auto(src='@/assets/curso/tema2/img15.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
@@ -224,8 +224,13 @@
           .row(titulo="Cuantitativos (numéricos)")
             .col-12.mb-0.mb-md-0
               p.mb-3 Expresan cantidades y se subdividen en:
-              li <b>Discretos</b>: toman valores contables, como el número de hijos o de productos vendidos.
-              li <b>Continuos</b>: pueden asumir infinitos valores dentro de un rango, como la altura o el peso.
+              ul.lista-ul.mb-0
+                li.mb-0
+                  i.lista-ul__vineta
+                  p.mb-0 <b>Discretos</b>: toman valores contables, como el número de hijos o de productos vendidos.
+                li.mb-0
+                  i.lista-ul__vineta
+                  p.mb-0 <b>Continuos</b>: pueden asumir infinitos valores dentro de un rango, como la altura o el peso.
       .col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema2/img17.png', alt='Imagen decorativa')
@@ -292,7 +297,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Histogramas
             p Permiten visualizar la distribución de frecuencias de variables continuas, facilitando el análisis de la forma, la simetría y la dispersión de los datos.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img24.jpg', alt='Imagen decorativa')
 
@@ -300,7 +305,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Tablas de contingencia
             p También conocidas como tablas cruzadas, se utilizan para observar la relación entre dos variables categóricas, identificando patrones conjuntos, dependencias o asociaciones.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img25.jpg', alt='Imagen decorativa')
 
@@ -308,7 +313,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Diagramas de barras
             p Representan frecuencias de variables categóricas. Son útiles para comparar categorías de forma clara y rápida.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img26.jpg', alt='Imagen decorativa')
 
@@ -316,7 +321,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Diagramas de caja (boxplots)
             p Muestran la mediana, los cuartiles y los valores atípicos de una variable numérica. Son especialmente útiles para comparar distribuciones entre grupos.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img27.jpg', alt='Imagen decorativa')
 
@@ -324,7 +329,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Medidas de tendencia central y dispersión
             p Como la media, mediana, moda, rango, desviación estándar y varianza. Estas permiten resumir cuantitativamente el comportamiento de una variable.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img28.jpg', alt='Imagen decorativa')
 
@@ -332,7 +337,7 @@
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
             h4 Diagramas de dispersión(scatter plots) 
             p Permiten explorar la relación entre dos variables numéricas, ayudando a identificar correlaciones o tendencias.
-          .col-lg-6.order-lg-1.order-1
+          .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img29.jpg', alt='Imagen decorativa')
               
