@@ -121,7 +121,7 @@
                   img(src='@/assets/curso/tema2/img08.svg', alt='Imagen decorativa')
               
             h4.text-center Sector salud 
-            p.mb-0 La IA facilita la integración de registros clínicos dispersos (Historias médicas, resultados de laboratorio, prescripciones, etc.) en un único expediente por paciente. Esto se logra mediante algoritmos de aprendizaje  automático y técnicas de duplicación inteligente, lo cual mejora la calidad de la atención y reduce errores administrativos. 
+            p.mb-0 La IA facilita la integración de registros clínicos dispersos (historias médicas, resultados de laboratorio, prescripciones, etc.) en un único expediente por paciente. Esto se logra mediante algoritmos de aprendizaje  automático y técnicas de duplicación inteligente, lo cual mejora la calidad de la atención y reduce errores administrativos. 
 
           .col-xl.col-md-6.tarjeta.tarjeta--C03.p-5
             .row.justify-content-center.mb-3
