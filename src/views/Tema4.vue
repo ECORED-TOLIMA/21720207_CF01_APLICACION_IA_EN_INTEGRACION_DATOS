@@ -30,7 +30,7 @@
             figure
               img(src='@/assets/curso/tema4/img03.jpg', alt='Imagen decorativa')
 
-      .py-4.py-md-5(titulo="<em>Tableau</em>" :icono="require('@/assets/curso/tema4/img04.svg')")
+      .py-4.py-md-5(titulo="Tableau" :icono="require('@/assets/curso/tema4/img04.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Se destaca por su capacidad de crear <em>dashboards</em> dinámicos, con una interfaz intuitiva que facilita el análisis visual.

@@ -232,7 +232,7 @@
             .col
               h4 IA descriptiva
               p.mb-3 Analiza datos históricos y actuales para identificar patrones, tendencias y relaciones. Su propósito es responder a la pregunta “¿qué ha pasado?”.
-              p <b>Ejemplo</b>: los tableros de control en herramientas como Power BI o <em>Tableau</em> que muestran métricas de rendimiento de una empresa en tiempo real.
+              p <b>Ejemplo</b>: los tableros de control en herramientas como Power BI o Tableau que muestran métricas de rendimiento de una empresa en tiempo real.
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
             .col-auto
@@ -321,7 +321,7 @@
                   p.mb-0 <b>Comunicación</b>: redacción automática de textos, generación de resúmenes, traducción de idiomas, chatbots conversacionales.
                 li.mb-3
                   i.lista-ul__vineta
-                  p.mb-0 <b>Diseño e imagen</b>: creación de ilustraciones, logotipos, renders o imágenes a partir de descripciones.
+                  p.mb-0 <b>Diseño e imagen</b>: creación de ilustraciones, logotipos, <em>renders</em> o imágenes a partir de descripciones.
                 li.mb-3
                   i.lista-ul__vineta
                   p.mb-0 <b>Educación</b>: generación de actividades, retroalimentación automática o explicaciones personalizadas para estudiantes.

@@ -305,7 +305,7 @@ export default {
         {
           id: 13,
           texto:
-            'Power BI, <em>Tableau</em> y Google Data Studio son herramientas para análisis predictivo.',
+            'Power BI, Tableau y Google Data Studio son herramientas para análisis predictivo.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

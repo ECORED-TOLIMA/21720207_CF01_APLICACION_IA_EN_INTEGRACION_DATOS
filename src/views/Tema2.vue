@@ -54,7 +54,7 @@
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-1.order-2
             h4 Normalización y estandarización
-            p Normalización y estandarización: estas técnicas ajustan la escala de los datos numéricos. La normalización transforma los valores para que estén en un rango específico (por ejemplo, entre 0 y 1), mientras que la estandarización los convierte a una distribución con media 0 y desviación estándar 1.
+            p Estas técnicas ajustan la escala de los datos numéricos. La normalización transforma los valores para que estén en un rango específico (por ejemplo, entre 0 y 1), mientras que la estandarización los convierte a una distribución con media 0 y desviación estándar 1.
             p Esto es especialmente importante para modelos sensibles a la escala, como los basados en distancia euclidiana.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -106,7 +106,7 @@
                 td Redes neuronales profundas, GANs y <em>transformers</em>
               tr
                 td(style="background-color: #F6F6F6") Ejemplos
-                td(style="background-color: #F6F6F6") <em>Tableau</em>, Power BI y <em>dashboards</em>
+                td(style="background-color: #F6F6F6") Tableau, Power BI y <em>dashboards</em>
                 td(style="background-color: #F6F6F6") ChatGPT, DALL·E, MidJourney y GitHub Copilot
 
     p.mb-5(data-aos="fade-down") La diferencia entre estos tipos de inteligencia artificial también se manifiesta en sus aplicaciones prácticas, donde el procesamiento previo de datos es un paso determinante para garantizar la utilidad y eficiencia de los sistemas. Algunos ejemplos destacados incluyen:
@@ -121,7 +121,7 @@
                   img(src='@/assets/curso/tema2/img08.svg', alt='Imagen decorativa')
               
             h4.text-center Sector salud 
-            p.mb-0 La IA facilita la integración de registros clínicos dispersos (Historias medicas, resultados de laboratorio, prescripciones, etc.) en un único expediente por paciente . Esto se logra mediante algoritmos de aprendizaje  automático y técnicas de duplicación inteligente, lo cual mejora la calidad de la atención y reduce errores administrativos. 
+            p.mb-0 La IA facilita la integración de registros clínicos dispersos (Historias médicas, resultados de laboratorio, prescripciones, etc.) en un único expediente por paciente. Esto se logra mediante algoritmos de aprendizaje  automático y técnicas de duplicación inteligente, lo cual mejora la calidad de la atención y reduce errores administrativos. 
 
           .col-xl.col-md-6.tarjeta.tarjeta--C03.p-5
             .row.justify-content-center.mb-3
@@ -319,7 +319,7 @@
 
         .row(titulo="4")
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
-            h4 Diagramas de caja (boxplots)
+            h4 Diagramas de caja (<em>boxplots</em>)
             p Muestran la mediana, los cuartiles y los valores atípicos de una variable numérica. Son especialmente útiles para comparar distribuciones entre grupos.
           .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
@@ -335,7 +335,7 @@
 
         .row(titulo="6")
           .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
-            h4 Diagramas de dispersión(scatter plots) 
+            h4 Diagramas de dispersión (<em>scatter plots</em>) 
             p Permiten explorar la relación entre dos variables numéricas, ayudando a identificar correlaciones o tendencias.
           .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure

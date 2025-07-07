@@ -84,7 +84,7 @@
         .row.justify-content-center
           .col-lg-6.col-12.order-lg-2.order-2
             .cajon.cajon.C01.color-primario.p-4.mb-3
-              p.mb-0 Los datos son el insumo bruto, como cifras, palabras , imágenes, sonidos, entre otros. en cambio, la información es el resultado procesado que tiene valor contextual y utilidad. Esta distinción es clave: así como el carbón se convierte  en diamante tras someterse a un proceso riguroso, los datos se transforman en información mediante técnicas de análisis, modelado y presentación.
+              p.mb-0 Los datos son el insumo bruto, como cifras, palabras, imágenes, sonidos, entre otros. En cambio, la información es el resultado procesado que tiene valor contextual y utilidad. Esta distinción es clave: así como el carbón se convierte  en diamante tras someterse a un proceso riguroso, los datos se transforman en información mediante técnicas de análisis, modelado y presentación.
             p(data-aos="fade-down") La naturaleza de los datos hace referencia a su forma de representación, su nivel de organización y la manera en que pueden ser interpretados o manipulados por sistemas informáticos. Esta clasificación resulta fundamental al momento de diseñar bases de datos, seleccionar herramientas de análisis y determinar los procesos requeridos para transformar los datos en información útil.
           .col-lg-6.col-md-7.col-12.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center(data-aos="flip-up")
@@ -137,31 +137,31 @@
             tbody
               tr
                 td Bits y bytes
-                td Representación básica binaria de todos los datos digitales
+                td Representación básica binaria de todos los datos digitales.
                 td 0 y 1
               tr
                 td(style="background-color: #F6F6F6") Números enteros
-                td(style="background-color: #F6F6F6") Sin decimales
+                td(style="background-color: #F6F6F6") Sin decimales.
                 td(style="background-color: #F6F6F6") 145
               tr
                 td Números decimales
-                td Con cifras decimales
+                td Con cifras decimales.
                 td 45.78
               tr
                 td(style="background-color: #F6F6F6") Texto
-                td(style="background-color: #F6F6F6") Codificado con estándares como ASCII o UTF
+                td(style="background-color: #F6F6F6") Codificado con estándares como ASCII o UTF.
                 td(style="background-color: #F6F6F6") “SENA”, “Bogotá”
               tr
                 td Fecha y hora
-                td Referencia temporal, expresada en distintos formatos
+                td Referencia temporal, expresada en distintos formatos.
                 td 2025-05-30, 14:30:00
               tr
                 td(style="background-color: #F6F6F6") Imagen
-                td(style="background-color: #F6F6F6") Representación visual en pixeles 
+                td(style="background-color: #F6F6F6") Representación visual en píxeles. 
                 td(style="background-color: #F6F6F6") JPG, PNG
               tr
                 td Video
-                td Secuencia de imágenes con audio y frecuencia de reproducción (FPS)
+                td Secuencia de imágenes con audio y frecuencia de reproducción (FPS).
                 td MP4, AVI, MOV
               tr
                 td(style="background-color: #F6F6F6") Booleano 
@@ -283,7 +283,7 @@
           img(src='@/assets/curso/tema1/img23.svg', alt='La figura 2 presenta las propiedades fundamentales de los datos, organizadas en cuatro dimensiones principales: físicas, estructurales, funcionales y de exposición. Cada una de estas dimensiones describe características esenciales que permiten comprender la naturaleza, el comportamiento y el contexto de uso de los datos.')
           figcaption Nota. Tomado de Benoit Cayla.
 
-    p.mb-0(data-aos="fade-down") En la actualidad, no es posible hablar de datos sin mencionar el papel creciente de la Inteligencia Artificial (IA). Más que una tendencia tecnológica, la IA se ha convertido en un elemento estratégico para empresas, científicos de datos y desarrolladores de software. Sin embargo, su uso excesivo y difuso ha contribuido a que el término pierda claridad, generando confusión sobre su verdadero alcance. Aun así, sus aplicaciones prácticas en la automatización del análisis, la predicción y la optimización de procesos hacen que la IA sea una herramienta imprescindible en cualquier estrategia moderna de datos.
+    p.mb-0(data-aos="fade-down") En la actualidad, no es posible hablar de datos sin mencionar el papel creciente de la Inteligencia Artificial (IA). Más que una tendencia tecnológica, la IA se ha convertido en un elemento estratégico para empresas, científicos de datos y desarrolladores de <em>software</em>. Sin embargo, su uso excesivo y difuso ha contribuido a que el término pierda claridad, generando confusión sobre su verdadero alcance. Aun así, sus aplicaciones prácticas en la automatización del análisis, la predicción y la optimización de procesos hacen que la IA sea una herramienta imprescindible en cualquier estrategia moderna de datos.
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
